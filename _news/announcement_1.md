@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+My first paper "Anti-Thermalization: Heating by cooling and vise versa" is available as a prepreint on arXiv
