@@ -6,12 +6,12 @@ subtitle: Masters Student, Indain Institute of Science.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
+    # <p>555 your office number</p>
+    # <p>123 your address street</p>
+    # <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,7 +20,9 @@ social: true # includes social icons at the bottom of the page
 
 Hi, Welcome to my academic site. 
 
-I am an aspiring thoeretical physicist, with a particular curisosity to unravel mysteries of quantum world. My primary research interests lie in theoretical condensed matter physics, focusing on quantum dynamics, quantum information, and entanglement in many-body systems. This site sevres as a platform to share my academic journey, reseach projects, my exploration in the fascinatng realm of quantum many-body physics. Feel free to 
+I am an aspiring thoeretical physicist, with a particular curisosity to unravel mysteries of quantum world. My primary research interests lie in theoretical condensed matter physics, focusing on quantum dynamics, quantum information, and entanglement in many-body systems. This site sevres as a platform to share my academic journey, reseach projects, my exploration in the fascinatng realm of quantum many-body physics. 
+
+If you would like to collaborate or discuss about these topics, feel free to contact me via mail. 
 
 
 
