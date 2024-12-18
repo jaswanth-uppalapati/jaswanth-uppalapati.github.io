@@ -18,9 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, Welcome to my academic site. 
+Hi, welcome to my academic site. 
 
-I am an aspiring thoeretical physicist, with a particular curisosity to unravel mysteries of quantum world. My primary research interests lie in theoretical condensed matter physics, focusing on quantum dynamics, quantum information, and entanglement in many-body systems. This site sevres as a platform to share my academic journey, reseach projects, my exploration in the fascinatng realm of quantum many-body physics. 
+I am an aspiring thoeretical physicist. My primary research interests lie in theoretical condensed matter physics, focusing on quantum dynamics, quantum information, and entanglement in many-body systems. This site sevres as a platform to share my academic journey, reseach projects, my exploration in the fascinatng realm of quantum many-body physics. 
 
 If you would like to collaborate or discuss about these topics, feel free to contact me via mail. 
 
