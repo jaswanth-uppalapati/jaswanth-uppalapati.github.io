@@ -7,8 +7,12 @@ first_name: Jaswanth Varma
 middle_name:
 last_name: Uppalapati
 email: jaswanthv@iisc.ac.in
-description: # the ">" symbol means to ignore newlines until "footer_text:"
-  I am an aspiring physicist. [*folio](https://github.com/bogoli/-folio) design.
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
+  Welcome to my website! I am Jaswanth Varma Uppalapati, an aspiring theoretical physicist with a deep curiosity for unraveling the complexities of quantum many-body physics. 
+  My research primarily focuses on exploring the fascinating interplay of quantum dynamics, entanglement, and thermalization in many-body systems. 
+  I am particularly drawn to understanding the role of quantum information in condensed matter systems and studying novel quantum phases and critical phenomena.
+
+  Feel free to explore my work, projects, and interests here. If you’d like to connect or collaborate, don’t hesitate to reach out to me!
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
